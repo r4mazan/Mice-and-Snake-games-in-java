@@ -1,0 +1,9 @@
+
+public class PetaTest {
+
+   
+    public static void main(String[] args) {
+       
+        Peta obj=new Peta();
+    }
+}
